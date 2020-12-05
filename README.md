@@ -35,8 +35,8 @@
 <br>
 
 <div>
-<img width="480px" src="https://github-readme-stats.manumanoj0010.vercel.app/api?username=manumanoj0010&show_icons=true&locale=en&hide_border=true" alt="manumanoj0010" />
-<img width="400px" align="right" src="https://github-readme-stats.manumanoj0010.vercel.app/api/top-langs?username=manumanoj0010&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010" />
+<img width="380px" src="https://github-readme-stats.manumanoj0010.vercel.app/api?username=manumanoj0010&show_icons=true&locale=en&hide_border=true" alt="manumanoj0010" />
+<img width="300px" align="right" src="https://github-readme-stats.manumanoj0010.vercel.app/api/top-langs?username=manumanoj0010&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010" />
 </div>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manumanoj0010&" alt="manumanoj0010" /></p>
