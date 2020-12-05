@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manumanoj0010" alt="manumanoj0010" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://manojmanu.me/](https://manojmanu.me/)
+- 👨‍💻 All of my projects are available at [https://github.com/manumanoj0010/](https://github.com/manumanoj0010/)
+
+- :eye_speech_bubble: Know more about me at [https://manojmanu.me/](https://manojmanu.me/)
 
 - 📫 How to reach me **manumanoj0010@gmail.com**
 
@@ -27,6 +29,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manumanoj0010&show_icons=true&locale=en&layout=compact" alt="manumanoj0010" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manumanoj0010&show_icons=true&locale=en" alt="manumanoj0010" /></p>
+
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manumanoj0010&" alt="manumanoj0010" /></p>
