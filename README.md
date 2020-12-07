@@ -58,8 +58,8 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
   <summary><b>Others</b></summary>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a><a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> 
 </details>
-<br>
 
+<h2>ℹ️ &nbsp;Github Info</h2>
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
@@ -77,9 +77,19 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manumanoj0010&margin-w=5" alt="manumanoj0010" /></a> </p>
 </details>
 
+<details>
+ <summary><b>💥 Github Activity</b></summary>
 <!--START_SECTION:activity-->
+</details>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-------------
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
