@@ -50,8 +50,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manumanoj0010&margin-w=5" alt="manumanoj0010" /></a> </p>
 
+<!--START_SECTION:activity-->
+
+
 ------------
 
 Connect with me 👇
 
 ![Linkedin Badge](https://img.shields.io/badge/Manumanoj0010-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/manumanoj0010/) [![Gmail Badge](https://img.shields.io/badge/gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:ishagupta2103@gmail.com) [![Website Badge](https://img.shields.io/badge/-manumanoj.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manumanoj.me)](https://manumanoj.me) [![Twitter Badge](https://img.shields.io/badge/-manumanj0010-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manumanoj0010)](https://twitter.com/manumanoj0010) [![Instagram Badge](https://img.shields.io/badge/-m.a.n.u.m.a.n.o.j-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/)](https://instagram.com/m.a.n.u.m.a.n.o.j) [![Facebook Badge](https://img.shields.io/badge/-manumanoj-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/manumanoj0010)](https://facebook.com/manumanoj0010)  ![Snapchat Badge](https://img.shields.io/badge/-manumanoj-FFFC00?style=flat&logo=snapchat&logoColor=white)
+
+
+
+
