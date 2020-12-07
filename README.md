@@ -85,6 +85,79 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 </details>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 428 Contributions in the Year 2020
+ > 
+> 📦 950.5 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
+🌆 Daytime    171 commits    ████████████░░░░░░░░░░░░░   49.14% 
+🌃 Evening    92 commits     ██████░░░░░░░░░░░░░░░░░░░   26.44% 
+🌙 Night      59 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.95%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Tuesday      47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+Wednesday    48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Thursday     70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.11% 
+Friday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
+Saturday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
+Sunday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.08%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   23.33% 
+CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/manumanoj0010/manumanoj0010/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 #
