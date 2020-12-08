@@ -81,9 +81,10 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
  <summary><b>💥 Github Activity</b></summary>
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 </details>
 
+<details>
+ <summary><b>💻Work Time</b></summary>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
