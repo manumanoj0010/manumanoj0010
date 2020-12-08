@@ -80,10 +80,10 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 <details>
  <summary><b>💥 Github Activity</b></summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
-2. ❌ Closed PR [#3](https://github.com/Sahiti-Dev/Coming-soon-Page/pull/3) in [Sahiti-Dev/Coming-soon-Page](https://github.com/Sahiti-Dev/Coming-soon-Page)
-3. ❗️ Closed issue [#1](https://github.com/Sahiti-Dev/Coming-soon-Page/issues/1) in [Sahiti-Dev/Coming-soon-Page](https://github.com/Sahiti-Dev/Coming-soon-Page)
-4. 🎉 Merged PR [#2](https://github.com/manumanoj0010/Real-EState-Website/pull/2) in [manumanoj0010/Real-EState-Website](https://github.com/manumanoj0010/Real-EState-Website)
+1. 💪 Opened PR [#438](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/438) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
+3. ❌ Closed PR [#3](https://github.com/Sahiti-Dev/Coming-soon-Page/pull/3) in [Sahiti-Dev/Coming-soon-Page](https://github.com/Sahiti-Dev/Coming-soon-Page)
+4. ❗️ Closed issue [#1](https://github.com/Sahiti-Dev/Coming-soon-Page/issues/1) in [Sahiti-Dev/Coming-soon-Page](https://github.com/Sahiti-Dev/Coming-soon-Page)
 4. 🎉 Merged PR [#2](https://github.com/manumanoj0010/Real-EState-Website/pull/2) in [manumanoj0010/Real-EState-Website](https://github.com/manumanoj0010/Real-EState-Website)
 5. 🎉 Merged PR [#3](https://github.com/manumanoj0010/Javascript-Applications/pull/3) in [manumanoj0010/Javascript-Applications](https://github.com/manumanoj0010/Javascript-Applications)
 <!--END_SECTION:activity-->
