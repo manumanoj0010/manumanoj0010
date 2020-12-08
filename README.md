@@ -79,6 +79,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 
 <details>
  <summary><b>💥 Github Activity</b></summary>
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#164](https://github.com/coderjojo/creative-profile-readme/pull/164) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
 2. ❗️ Closed issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
