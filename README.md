@@ -95,16 +95,17 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 <details>
  <summary><b>💻Work Time</b></summary>
 <!--START_SECTION:waka-->
- 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
+
 **🐱 My Github Data** 
 
-> 🏆 428 Contributions in the Year 2020
+> 🏆 442 Contributions in the Year 2020
  > 
 > 📦 950.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 9 Private Repositories  
 
@@ -137,16 +138,21 @@ Sunday       49 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 10 mins        ███████████░░░░░░░░░░░░░░   45.95% 
+Markdown                 37 mins             ██████░░░░░░░░░░░░░░░░░░░   24.46% 
+TypeScript               30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.69% 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+SCSS                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.07%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 33 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Carezy-Hospital-Web      1 hr 46 mins        █████████████████░░░░░░░░   69.71% 
+manumanoj0010            46 mins             ███████░░░░░░░░░░░░░░░░░░   30.29%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
