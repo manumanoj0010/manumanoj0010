@@ -86,8 +86,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 <details>
  <summary><b>💻Work Time</b></summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
-
+ 
 **🐱 My Github Data** 
 
 > 🏆 428 Contributions in the Year 2020
