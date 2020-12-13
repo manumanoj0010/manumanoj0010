@@ -99,9 +99,9 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 
 **🐱 My Github Data** 
 
-> 🏆 464 Contributions in the Year 2020
+> 🏆 469 Contributions in the Year 2020
  > 
-> 📦 965.1 kB Used in Github's Storage 
+> 📦 965.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
