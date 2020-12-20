@@ -99,7 +99,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 
 **🐱 My Github Data** 
 
-> 🏆 499 Contributions in the Year 2020
+> 🏆 501 Contributions in the Year 2020
  > 
 > 📦 965.3 kB Used in Github's Storage 
  > 
