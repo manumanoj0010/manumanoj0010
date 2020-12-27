@@ -95,13 +95,13 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 <details>
  <summary><b>💻Work Time</b></summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 514 Contributions in the Year 2020
+> 🏆 519 Contributions in the Year 2020
  > 
-> 📦 965.3 kB Used in Github's Storage 
+> 📦 965.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
