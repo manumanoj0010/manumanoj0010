@@ -79,46 +79,55 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 
 <details>
  <summary><b>💥 Github Activity</b></summary>
+
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#164](https://github.com/coderjojo/creative-profile-readme/pull/164) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
+2. ❗️ Closed issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
+3. 💪 Opened PR [#438](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/438) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+4. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
+4. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
+4. 🎉 Merged PR [#2](https://github.com/manumanoj0010/Real-EState-Website/pull/2) in [manumanoj0010/Real-EState-Website](https://github.com/manumanoj0010/Real-EState-Website)
+5. 🎉 Merged PR [#3](https://github.com/manumanoj0010/Javascript-Applications/pull/3) in [manumanoj0010/Javascript-Applications](https://github.com/manumanoj0010/Javascript-Applications)
+<!--END_SECTION:activity-->
 
 </details>
 
 <details>
  <summary><b>💻Work Time</b></summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 428 Contributions in the Year 2020
+> 🏆 5 Contributions in the Year 2021
  > 
-> 📦 950.5 kB Used in Github's Storage 
+> 📦 965.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 30 Public Repositories 
  > 
-> 🔑 9 Private Repositories  
-
+> 🔑 10 Private Repositories  
+ > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
-🌆 Daytime    171 commits    ████████████░░░░░░░░░░░░░   49.14% 
-🌃 Evening    92 commits     ██████░░░░░░░░░░░░░░░░░░░   26.44% 
-🌙 Night      59 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.95%
+🌞 Morning    31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.56% 
+🌆 Daytime    174 commits    ████████████░░░░░░░░░░░░░   48.07% 
+🌃 Evening    98 commits     ██████░░░░░░░░░░░░░░░░░░░   27.07% 
+🌙 Night      59 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Tuesday      47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
-Wednesday    48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Thursday     70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.11% 
-Friday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
-Saturday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
-Sunday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.08%
+Monday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
+Tuesday      51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
+Wednesday    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
+Thursday     71 commits     █████░░░░░░░░░░░░░░░░░░░░   19.61% 
+Friday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
+Saturday     45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.43% 
+Sunday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54%
 
 ```
 
@@ -129,27 +138,35 @@ Sunday       49 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     15 hrs 31 mins      █████████████░░░░░░░░░░░░   53.45% 
+CSS                      4 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.2% 
+TypeScript               4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
+Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.12% 
+Python                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.68%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  29 hrs 2 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Carezy-Hospital-Web      12 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   42.91% 
+UI                       12 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   42.2% 
+Django-ToDo-App          1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.96% 
+manumanoj0010            49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
+Python_DSA               47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  29 hrs 2 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   23.33% 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   31.25% 
+HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88% 
+CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
 
 ```
 
