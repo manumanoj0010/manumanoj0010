@@ -81,8 +81,8 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
  <summary><b>💥 Github Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Sahiti-Dev/Website/pull/1) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
-2. ❗️ Closed issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
+1. 🎉 Merged PR [#2](https://github.com/Sahiti-Dev/Website/pull/2) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
+2. ❌ Closed PR [#1](https://github.com/Sahiti-Dev/Website/pull/1) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
 3. 💪 Opened PR [#438](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/438) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 4. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
 4. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
