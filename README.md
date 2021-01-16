@@ -173,7 +173,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/manumanoj0010/manumanoj0010/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/manumanoj0010/manumanoj0010/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
