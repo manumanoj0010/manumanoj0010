@@ -95,7 +95,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 <details>
  <summary><b>💻Work Time</b></summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
 
 **🐱 My Github Data** 
 
@@ -105,9 +105,9 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 31 Public Repositories 
  > 
-> 🔑 10 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
