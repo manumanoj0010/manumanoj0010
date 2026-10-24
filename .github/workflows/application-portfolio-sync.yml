@@ -1,0 +1,22 @@
+name: Weekly application portfolio sync
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 13 * * 0'
+permissions:
+  contents: read
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - run: python portfolio_sync.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.PORTFOLIO_GITHUB_TOKEN }}
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: appF6KCJUAblpFGHk
+          GITHUB_OWNER: manumanoj0010
